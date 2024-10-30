@@ -1,0 +1,28 @@
+# Copyright (C) 2021 Metricks
+
+#: includes/class-wc-metricks-integration.php:25
+msgid "Metricks"
+msgstr ""
+
+#: includes/class-wc-metricks-integration.php:26
+msgid ""
+"Get your Api Key from <a target=\"_blank\" href=\"https://www."
+"metricks.io/settings\">Metricks Admin Settings &gt; Plugin "
+"tokens</a>"
+msgstr ""
+
+#: includes/class-wc-metricks-integration.php:54
+msgid "Api Key"
+msgstr ""
+
+#: includes/class-wc-metricks-integration.php:56
+msgid "Enter with your Api Key from Metricks"
+msgstr ""
+
+#: includes/class-wc-metricks-integration.php:61
+msgid "App Domain"
+msgstr ""
+
+#: includes/class-wc-metricks-integration.php:63
+msgid "Enter your Metricks URL"
+msgstr ""
